@@ -1,6 +1,6 @@
 # Optimisation-Course
 ## Colab Link 
-https://colab.research.google.com/drive/1MzXI5ZVgNRoBKlKzmstVxePhJ7keZOYf
+https://colab.research.google.com/drive/1MzXI5ZVgNRoBKlKzmstVxePhJ7keZOYf?usp=sharing
 
 # Subset Sum and Traveling Salesman Problems
 
