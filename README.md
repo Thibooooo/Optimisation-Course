@@ -11,14 +11,16 @@ The file `backtracking_recursive_approach_subset_sum_problem.py` contains a recu
 ### Usage
 ```python
 python backtracking_recursive_approach_subset_sum_problem.py
+'''
 
 ##2. Traveling Salesman Problem
 
 The file naive_implementation_traveling_salesman_problem.py implements a naive solution for the Traveling Salesman Problem. In this problem, the salesman must find the shortest path that allows him to visit all given cities exactly once and return to the starting city.
 
 ###Usage
+'''python
 python naive_implementation_traveling_salesman_problem.py
-
+'''
 ##How to Run the scripts
 
 Make sure you have Python installed on your system. You can run each script using the command python <script_name>.py.
