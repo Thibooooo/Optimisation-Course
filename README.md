@@ -23,4 +23,4 @@ python naive_implementation_traveling_salesman_problem.py
 ## How to Run the scripts
 
 Make sure you have Python installed on your system. You can run each script using the command python <script_name>.py.
-We have also, a collab where you can directly execute them ! 
+We have also, a collab is here, then you can directly execute them ! 
